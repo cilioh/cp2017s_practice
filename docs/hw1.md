@@ -92,5 +92,5 @@
 
 	Phone Book Print
 	1. John doe_010-1234-5678_Warriors
-	2. Stephen Curry_02-1234-5678_0--1-3_261
+	2. Stephen Curry_02-1234-5678_940101_261
        
