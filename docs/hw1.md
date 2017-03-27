@@ -8,7 +8,7 @@
 
 - Always show prompt `CP-2017-12345>`(your student ID) at first and at the end of each task.
 - If user inputs enter, show information about choices.
-- If user inputs `exit`, it ends the program.
+- If user inputs `exit`, end the program.
 
 ### 1-2. 예제 입력
 
@@ -65,7 +65,7 @@
        
 ### 3-4. 예제 입력
 
-        10
+	10
 	
 ### 3-5. 예제 출력
 
