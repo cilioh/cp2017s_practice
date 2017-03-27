@@ -1,5 +1,7 @@
 # HW1
 
+**You do not have to think about any Exception Cases.**
+
 ## 1. Phone Book
 
 ### 1-1. 설명
